@@ -3,6 +3,7 @@
 Tutkitaan Express.js sovellusta ja http-metodien käyttöä sovelluksessa
 
 <ol>
+<li>Luo kansio nimeltään expressExample ja avaa komentokehote kansioon</li>
 <li>Alusta node.js sovellus komennolla npm init</li>
 <li>Lisää sovellukseen Express.js moduuli komennolla npm install express</li>
 <li>Lisää sovellukseen tiedosto app.js, jossa koodi 
