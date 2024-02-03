@@ -32,7 +32,7 @@ module.exports=app;
 </li>
 <li>Voit nyt käynnistää sovelluksen komennolla npm start</li>
 <li>Lisää tiedostoon toinenkin get-pyyntöihin vastaava metodi</li>
-<li>Lisää tiedostoon get-pyyntöihin vastaava metodi, joka ottaa vastaan annetun nimen</li>
+<li>Lisää tiedostoon get-pyyntöihin vastaava metodi, joka ottaa vastaan annetun nimen ja palauttaa tervehdyksen</li>
 <li>Lisää sovellukseen rivit 
 <pre>
 app.use(express.json());
